@@ -1,0 +1,15 @@
+{
+  "id": "automated-google-review-generator",
+  "title": "ReviewFlow - Automated Happy Customer Review Collection",
+  "problem_statement": "Small business owners struggle to get happy customers to leave Google reviews, while unhappy customers go out of their way to complain publicly. There's no frictionless, non-awkward way to capture positive reviews at the right moment.",
+  "target_user": "Small business owners (restaurants, salons, contractors, local services)",
+  "scores": {
+    "market_size": 9,
+    "revenue_potential": 7,
+    "opportunity": 4,
+    "ad_spend_indicator": 8
+  },
+  "composite_score": 6.75,
+  "source_url": "https://reddit.com/r/smallbusiness/comments/1rzxyh3/how_do_you_actually_get_happy_customers_to_leave/",
+  "reasoning": "There are 33M+ small businesses in the US alone, and Google reviews directly impact revenue. While tools like Podium and Birdeye exist, they charge $300+/mo which prices out most small businesses. A simpler, affordable tool focused purely on review generation with smart timing triggers (e.g., post-purchase SMS, NFC tap cards, QR receipts) could capture the long tail of small businesses."
+}
